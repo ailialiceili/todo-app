@@ -1,0 +1,6 @@
+# Todoアプリ 依存パッケージ
+# Tkinter は Python 標準ライブラリに含まれるため pip install 不要
+# JSON も Python 標準ライブラリに含まれるため pip install 不要
+
+# このアプリは Python 標準ライブラリのみで動作します
+# 追加の pip install は不要です
